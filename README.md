@@ -9,7 +9,7 @@ I’m currently learning programming, and I think I will try Flutter (Dart) for 
 --
 I hope I will have enough spirit to develop it in any way and maybe there will be something alternative to the first idea, who knows).
 --
---
+
 --
 ![image](https://user-images.githubusercontent.com/76650720/195148425-94885853-809b-45d5-9d7d-64909445b93d.png)
 ![image](https://user-images.githubusercontent.com/76650720/195148845-f570b97a-b32d-46f1-be50-02b368593382.png)
@@ -31,6 +31,6 @@ installation:
 usage:
 -
 
---
+
 --
 --
