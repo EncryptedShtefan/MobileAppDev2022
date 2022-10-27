@@ -13,7 +13,8 @@ class Login extends StatelessWidget {
     return MaterialApp(
       title: 'Welcome',
       theme: ThemeData(
-        primaryColor: Color.fromARGB(255, 247, 229, 243),
+        brightness: Brightness.dark,
+        primaryColor: Color.fromARGB(255, 218, 196, 213),
       ),
       home: const Authwindow(),
     );
