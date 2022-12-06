@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'authwindow.dart';
+import 'pages/authwindow.dart';
 
 void main() {
   runApp(const Login());
